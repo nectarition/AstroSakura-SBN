@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://shiokazehs.jp',
+  siteUrl: 'https://sbn.nrsy.jp',
   copyright: {
     year: 2022,
     author: 'Nectarition'
