@@ -2,7 +2,7 @@ const config = {
   siteUrl: 'https://sbn.nrsy.jp',
   copyright: {
     year: 2021,
-    author: 'Nectarition'
+    author: 'Nectarition / 小樽潮風高校文化祭「しおばな祭」実行委員会'
   },
   event: {
     name: '小樽潮風高校文化祭 しおばな祭',
