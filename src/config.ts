@@ -1,7 +1,7 @@
 const config = {
   siteUrl: 'https://sbn.nrsy.jp',
   copyright: {
-    year: 2022,
+    year: 2021,
     author: 'Nectarition'
   },
   event: {
