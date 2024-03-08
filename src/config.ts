@@ -1,13 +1,13 @@
 const config = {
-  siteUrl: 'https://sbn.nrsy.jp',
+  siteUrl: 'https://shiokazehs.jp',
   copyright: {
     year: 2021,
     author: '小樽潮風高校文化祭「しおばな祭」実行委員会'
   },
   event: {
     name: '小樽潮風高校文化祭 しおばな祭',
-    date: '2023-11-04',
-    place: '池袋・みらい館大明',
+    date: '2024-11-02',
+    place: '川崎市産業振興会館 4階企画展示場',
     content: 'TOKYO6キャラクターオンリーイベント',
     twitterId: 'nct_kohatabe'
   }
