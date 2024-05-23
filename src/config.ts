@@ -10,7 +10,8 @@ const config = {
     place: '川崎市産業振興会館 4階企画展示場',
     content: 'TOKYO6キャラクターオンリーイベント',
     twitterId: 'nct_kohatabe'
-  }
+  },
+  shouldShowNectaritionLogo: true
 }
 
 export default config
