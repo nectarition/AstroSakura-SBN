@@ -1,7 +1,7 @@
 const config = {
   siteUrl: 'https://shiokazehs.jp',
   copyright: {
-    year: 2021,
+    year: 2024,
     author: '小樽潮風高校文化祭「しおばな祭」実行委員会'
   },
   event: {
